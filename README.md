@@ -1,4 +1,4 @@
-This project is hosted at [https://paulnewby.github.io/calculator-repository/].
+This project is hosted at https://paulnewby.github.io/calculator-repository/.
 
 
 
